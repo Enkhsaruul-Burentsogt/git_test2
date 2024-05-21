@@ -1,2 +1,6 @@
 あああ
+<<<<<<< HEAD
 main branch で追加
+=======
+bra-cで追加
+>>>>>>> bra-c
